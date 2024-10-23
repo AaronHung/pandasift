@@ -1,0 +1,10 @@
+{
+  "name": ["Brian Dogood", "Leah Bokeh", "Mark Prescott", "Jurgen Gupta"],
+  "salary": [64000, 73200, 76400, 94300],
+  "occupation": [
+    "Software Technician",
+    "Data Scientist",
+    "Business Consultant",
+    "Aerospace Engineer"
+  ]
+}
